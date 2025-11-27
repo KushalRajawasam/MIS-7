@@ -1,0 +1,15 @@
+# Python Project 7 (YouTube Video Downloader)
+
+- This program is a graphical YouTube video downloader created using Python and Tkinter.
+
+- It allows the user to paste a YouTube video link into an input field.
+
+- The user can start the download by clicking the DOWNLOAD VIDEO button.
+
+- The program connects to YouTube using the pytubefix library. It automatically selects and downloads the highest available video resolution.
+
+- The downloaded video is saved to a predefined folder in the computer.
+
+- After the download is complete, a confirmation message is displayed on the screen.
+
+- 
